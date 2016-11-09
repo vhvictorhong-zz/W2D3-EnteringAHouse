@@ -15,6 +15,21 @@
 		2BF959971DD39CAF0076FE63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959951DD39CAF0076FE63 /* LaunchScreen.storyboard */; };
 		2BF959A21DD39CAF0076FE63 /* EnteringAHouseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF959A11DD39CAF0076FE63 /* EnteringAHouseTests.m */; };
 		2BF959AD1DD39CAF0076FE63 /* EnteringAHouseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF959AC1DD39CAF0076FE63 /* EnteringAHouseUITests.m */; };
+		2BF959E91DD3AC500076FE63 /* back_porch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DA1DD3AC4F0076FE63 /* back_porch.jpg */; };
+		2BF959EA1DD3AC500076FE63 /* bathroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DB1DD3AC4F0076FE63 /* bathroom.jpg */; };
+		2BF959EB1DD3AC500076FE63 /* bedroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DC1DD3AC4F0076FE63 /* bedroom.jpg */; };
+		2BF959EC1DD3AC500076FE63 /* coat_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DD1DD3AC4F0076FE63 /* coat_room.jpg */; };
+		2BF959ED1DD3AC500076FE63 /* cursed_chalice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DE1DD3AC4F0076FE63 /* cursed_chalice.jpg */; };
+		2BF959EE1DD3AC500076FE63 /* dining_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959DF1DD3AC4F0076FE63 /* dining_room.jpg */; };
+		2BF959EF1DD3AC500076FE63 /* dungeon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E01DD3AC4F0076FE63 /* dungeon.jpg */; };
+		2BF959F01DD3AC500076FE63 /* front_door.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E11DD3AC4F0076FE63 /* front_door.jpg */; };
+		2BF959F11DD3AC500076FE63 /* generator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E21DD3AC4F0076FE63 /* generator.jpg */; };
+		2BF959F21DD3AC500076FE63 /* kitchen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E31DD3AC4F0076FE63 /* kitchen.jpg */; };
+		2BF959F31DD3AC500076FE63 /* labratory.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E41DD3AC4F0076FE63 /* labratory.jpg */; };
+		2BF959F41DD3AC500076FE63 /* library.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E51DD3AC4F0076FE63 /* library.jpg */; };
+		2BF959F51DD3AC500076FE63 /* mysterious_lake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E61DD3AC4F0076FE63 /* mysterious_lake.jpg */; };
+		2BF959F61DD3AC500076FE63 /* secret_passage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E71DD3AC4F0076FE63 /* secret_passage.jpg */; };
+		2BF959F71DD3AC500076FE63 /* stairs_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BF959E81DD3AC4F0076FE63 /* stairs_up.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,21 @@
 		2BF959A81DD39CAF0076FE63 /* EnteringAHouseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnteringAHouseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BF959AC1DD39CAF0076FE63 /* EnteringAHouseUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnteringAHouseUITests.m; sourceTree = "<group>"; };
 		2BF959AE1DD39CAF0076FE63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BF959DA1DD3AC4F0076FE63 /* back_porch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back_porch.jpg; sourceTree = "<group>"; };
+		2BF959DB1DD3AC4F0076FE63 /* bathroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bathroom.jpg; sourceTree = "<group>"; };
+		2BF959DC1DD3AC4F0076FE63 /* bedroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bedroom.jpg; sourceTree = "<group>"; };
+		2BF959DD1DD3AC4F0076FE63 /* coat_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coat_room.jpg; sourceTree = "<group>"; };
+		2BF959DE1DD3AC4F0076FE63 /* cursed_chalice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cursed_chalice.jpg; sourceTree = "<group>"; };
+		2BF959DF1DD3AC4F0076FE63 /* dining_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dining_room.jpg; sourceTree = "<group>"; };
+		2BF959E01DD3AC4F0076FE63 /* dungeon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dungeon.jpg; sourceTree = "<group>"; };
+		2BF959E11DD3AC4F0076FE63 /* front_door.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = front_door.jpg; sourceTree = "<group>"; };
+		2BF959E21DD3AC4F0076FE63 /* generator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = generator.jpg; sourceTree = "<group>"; };
+		2BF959E31DD3AC4F0076FE63 /* kitchen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitchen.jpg; sourceTree = "<group>"; };
+		2BF959E41DD3AC4F0076FE63 /* labratory.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = labratory.jpg; sourceTree = "<group>"; };
+		2BF959E51DD3AC4F0076FE63 /* library.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = library.jpg; sourceTree = "<group>"; };
+		2BF959E61DD3AC4F0076FE63 /* mysterious_lake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mysterious_lake.jpg; sourceTree = "<group>"; };
+		2BF959E71DD3AC4F0076FE63 /* secret_passage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret_passage.jpg; sourceTree = "<group>"; };
+		2BF959E81DD3AC4F0076FE63 /* stairs_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stairs_up.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +135,21 @@
 				2BF9598B1DD39CAF0076FE63 /* AppDelegate.m */,
 				2BF9598D1DD39CAF0076FE63 /* ViewController.h */,
 				2BF9598E1DD39CAF0076FE63 /* ViewController.m */,
+				2BF959DA1DD3AC4F0076FE63 /* back_porch.jpg */,
+				2BF959DB1DD3AC4F0076FE63 /* bathroom.jpg */,
+				2BF959DC1DD3AC4F0076FE63 /* bedroom.jpg */,
+				2BF959DD1DD3AC4F0076FE63 /* coat_room.jpg */,
+				2BF959DE1DD3AC4F0076FE63 /* cursed_chalice.jpg */,
+				2BF959DF1DD3AC4F0076FE63 /* dining_room.jpg */,
+				2BF959E01DD3AC4F0076FE63 /* dungeon.jpg */,
+				2BF959E11DD3AC4F0076FE63 /* front_door.jpg */,
+				2BF959E21DD3AC4F0076FE63 /* generator.jpg */,
+				2BF959E31DD3AC4F0076FE63 /* kitchen.jpg */,
+				2BF959E41DD3AC4F0076FE63 /* labratory.jpg */,
+				2BF959E51DD3AC4F0076FE63 /* library.jpg */,
+				2BF959E61DD3AC4F0076FE63 /* mysterious_lake.jpg */,
+				2BF959E71DD3AC4F0076FE63 /* secret_passage.jpg */,
+				2BF959E81DD3AC4F0076FE63 /* stairs_up.jpg */,
 				2BF959901DD39CAF0076FE63 /* Main.storyboard */,
 				2BF959931DD39CAF0076FE63 /* Assets.xcassets */,
 				2BF959951DD39CAF0076FE63 /* LaunchScreen.storyboard */,
@@ -246,9 +291,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BF959F71DD3AC500076FE63 /* stairs_up.jpg in Resources */,
 				2BF959971DD39CAF0076FE63 /* LaunchScreen.storyboard in Resources */,
+				2BF959E91DD3AC500076FE63 /* back_porch.jpg in Resources */,
+				2BF959F51DD3AC500076FE63 /* mysterious_lake.jpg in Resources */,
 				2BF959941DD39CAF0076FE63 /* Assets.xcassets in Resources */,
 				2BF959921DD39CAF0076FE63 /* Main.storyboard in Resources */,
+				2BF959EE1DD3AC500076FE63 /* dining_room.jpg in Resources */,
+				2BF959F21DD3AC500076FE63 /* kitchen.jpg in Resources */,
+				2BF959EB1DD3AC500076FE63 /* bedroom.jpg in Resources */,
+				2BF959EC1DD3AC500076FE63 /* coat_room.jpg in Resources */,
+				2BF959F31DD3AC500076FE63 /* labratory.jpg in Resources */,
+				2BF959EA1DD3AC500076FE63 /* bathroom.jpg in Resources */,
+				2BF959F41DD3AC500076FE63 /* library.jpg in Resources */,
+				2BF959EF1DD3AC500076FE63 /* dungeon.jpg in Resources */,
+				2BF959ED1DD3AC500076FE63 /* cursed_chalice.jpg in Resources */,
+				2BF959F01DD3AC500076FE63 /* front_door.jpg in Resources */,
+				2BF959F61DD3AC500076FE63 /* secret_passage.jpg in Resources */,
+				2BF959F11DD3AC500076FE63 /* generator.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
